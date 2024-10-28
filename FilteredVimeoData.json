@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Sun",
+    "sign": "Aries",
+    "vimeoId": "1021695306"
+  },
+  {
+    "name": "Sun",
+    "sign": "Taurus",
+    "vimeoId": "1021695382"
+  },
+  {
+    "name": "Sun",
+    "sign": "Gemini",
+    "vimeoId": "1021695457"
+  },
+  {
+    "name": "Sun",
+    "sign": "Cancer",
+    "vimeoId": "1021695533"
+  },
+  {
+    "name": "Sun",
+    "sign": "Leo",
+    "vimeoId": "1021695597"
+  },
+  {
+    "name": "Sun",
+    "sign": "Virgo",
+    "vimeoId": "1021695658"
+  },
+  {
+    "name": "Sun",
+    "sign": "Libra",
+    "vimeoId": "1021695732"
+  },
+  {
+    "name": "Sun",
+    "sign": "Scorpio",
+    "vimeoId": "1021695782"
+  },
+  {
+    "name": "Sun",
+    "sign": "Sagittarius",
+    "vimeoId": "1021695848"
+  },
+  {
+    "name": "Sun",
+    "sign": "Capricorn",
+    "vimeoId": "1021695906"
+  },
+  {
+    "name": "Sun",
+    "sign": "Aquarius",
+    "vimeoId": "1021696406"
+  },
+  {
+    "name": "Sun",
+    "sign": "Pisces",
+    "vimeoId": "1021697432"
+  },
+  {
+    "name": "Moon",
+    "sign": "Aries",
+    "vimeoId": "1021698016"
+  },
+  {
+    "name": "Moon",
+    "sign": "Taurus",
+    "vimeoId": "1021698609"
+  },
+  {
+    "name": "Moon",
+    "sign": "Gemini",
+    "vimeoId": "1021699148"
+  },
+  {
+    "name": "Moon",
+    "sign": "Cancer",
+    "vimeoId": "1021699685"
+  },
+  {
+    "name": "Moon",
+    "sign": "Leo",
+    "vimeoId": "1021700253"
+  },
+  {
+    "name": "Moon",
+    "sign": "Virgo",
+    "vimeoId": "1021700783"
+  },
+  {
+    "name": "Moon",
+    "sign": "Libra",
+    "vimeoId": "1021701144"
+  },
+  {
+    "name": "Moon",
+    "sign": "Scorpio",
+    "vimeoId": "1021701756"
+  },
+  {
+    "name": "Moon",
+    "sign": "Sagittarius",
+    "vimeoId": "1021702186"
+  },
+  {
+    "name": "Moon",
+    "sign": "Capricorn",
+    "vimeoId": "1021702783"
+  },
+  {
+    "name": "Moon",
+    "sign": "Aquarius",
+    "vimeoId": "1021703141"
+  },
+  {
+    "name": "Moon",
+    "sign": "Pisces",
+    "vimeoId": "1021703671"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Aries",
+    "vimeoId": "1021704095"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Taurus",
+    "vimeoId": "1021704575"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Gemini",
+    "vimeoId": "1021704964"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Cancer",
+    "vimeoId": "1021705344"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Leo",
+    "vimeoId": "1021705765"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Virgo",
+    "vimeoId": "1021706114"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Libra",
+    "vimeoId": "1021706530"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Scorpio",
+    "vimeoId": "1021706980"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Sagittarius",
+    "vimeoId": "1021707452"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Capricorn",
+    "vimeoId": "1021707981"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Aquarius",
+    "vimeoId": "1021708450"
+  },
+  {
+    "name": "Mercury",
+    "sign": "Pisces",
+    "vimeoId": "1021708877"
+  },
+  {
+    "sign": "Aries",
+    "house": 1,
+    "vimeoId": "1021700783"
+  }
+]
